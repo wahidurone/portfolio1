@@ -1,0 +1,73 @@
+.menubar_width{
+    width
+}
+.menuicon{
+    
+    font-size: 20px;
+}
+.logoo{
+    width: 130px;
+    margin-top: 14px;
+    
+}
+.h1text{
+    margin-top: -30px;
+}
+.first-letter {
+    font-size: 70px;
+    color: red;
+    /* line-height: 70px; */
+  }
+.abt_text{
+    width: 586px;
+    text-align: justify !important;
+    margin-left: 544px;
+}
+.abt_button{
+    margin-left: 711px;
+    width: 240px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+.abt_h1{
+    letter-spacing: 7px;
+}
+.abt_info{
+    margin-left: 90px;
+}
+.abt_content1{
+    width: 677px;
+    text-align: justify;
+    letter-spacing: 0px;
+    line-height: 29px;
+    margin-top: 43px;
+    margin-left: 106px;
+}
+
+.abt_content2{
+    width: 581px;
+    margin-top: 37px;
+    margin-bottom: 48px;
+    margin-left: 105px;
+}
+.abt_image{
+    width: 480px;
+    margin-top: 12px;
+    margin-left: 184px;
+}
+
+.abt_htwo{
+    margin-left: 100px;
+}
+.services{
+    background: black;
+    margin-top: -48px;
+}
+.galary_bacground{
+    background: black;
+}
+.gal_images{
+    padding: 0px 16px;
+    padding-bottom: 28px;
+}
+
